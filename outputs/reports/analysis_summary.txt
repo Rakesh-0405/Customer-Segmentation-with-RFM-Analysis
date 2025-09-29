@@ -1,0 +1,12 @@
+RFM CUSTOMER SEGMENTATION ANALYSIS REPORT
+==================================================
+
+Total Customers Analyzed: 4,338
+Total Revenue: £8,887,208.89
+Number of Segments: 4
+
+SEGMENT DISTRIBUTION:
+Segment 0: 1377 customers (31.7%), Avg Value: £384.22
+Segment 1: 938 customers (21.6%), Avg Value: £385.39
+Segment 2: 571 customers (13.2%), Avg Value: £9,823.43
+Segment 3: 1452 customers (33.5%), Avg Value: £1,644.26
